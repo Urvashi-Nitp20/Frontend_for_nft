@@ -11,7 +11,7 @@ text-align: center;
 `
 const Text= styled(Typography)`
 font-size:14px;
-font-weight: bold;
+font-weight: 600;
 font-family:inherit;
 
 
