@@ -18,6 +18,7 @@ import SearchIcon from '@mui/icons-material/Search'
  const SearchStyledIcon=styled(Box)`
  color:  blue;
  padding:5px;
+ display:flex;
  
  `
 
